@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+android:id="@+id/Stroke"
+android:title="Stroke"
+android:orderInCategory="100"
+/>
+ <item
+ android:id="@+id/Fill"
+ android:title="Fill"
+ android:orderInCategory="200"
+ />
+<item
+    android:id="@+id/HidePalatte"
+    android:title="Hide Palatte"
+    android:orderInCategory="300"
+ />
+ <item
+     android:id="@+id/ShowPalatte"
+     android:title="Show Palatte"
+     android:orderInCategory="400"
+     />
+</menu>
